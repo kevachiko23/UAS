@@ -14,3 +14,5 @@ Logout
 Login :
 Username : Kevin	
 Password :1234
+
+Note :Untuk bower_components saya buat Rar dikarnakan file melebihi 100
