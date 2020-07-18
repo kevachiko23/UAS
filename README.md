@@ -14,7 +14,11 @@ Laporan dan Cetak Laporan.
 Logout
 
 Login :
+Akun 1
 Username : Kevin	
+Password :1234
+Akun 2
+Username :Kristianto
 Password :1234
 
 Note :Untuk bower_components saya buat Rar dikarnakan file melebihi 100
