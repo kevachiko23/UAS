@@ -3,7 +3,7 @@ UAS - PEMROGRAMAN WEB 2
 Kelompok 6
 06TPLM009
 
-Aplikasi PHP Sederhana tentang informasi data Covid-19 di indonesia
+Aplikasi Sederhana menggunakan PHP tentang informasi data Covid-19 di indonesia berbasis web
 
 Dengan Fitur :
 Login
